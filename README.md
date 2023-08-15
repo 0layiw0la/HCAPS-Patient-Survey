@@ -35,6 +35,8 @@ What is interesting to note is that although South Dakota is the fifth state by 
 ## 5 States with the lowest response rate
 The chart below shows the average response rate between 2015 till 2023 for the 5 states with the lowest response rate. XX is the state with the lowest response rate followed by xx,xx,xx and xx in order.
 
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/5c1de193-aaa2-495c-b972-80420e14f258)
+
 
 
 
