@@ -65,3 +65,4 @@ Hospitals in the District of Columbia have the most negative responses by patien
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/0c16198f-fae9-426a-9c67-d3849064547d)
 
+### Treatment and care by doctors
