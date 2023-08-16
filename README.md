@@ -47,8 +47,18 @@ Hospitals in Nebraska have the highest percentage of positive responses over the
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/128d2302-4bcb-4790-9af3-8b607fe71be9)  
 
-Hospitals in 
+Hospitals in the District of Columbia have the most negative responses on cleanliness.
+
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/02a2ae74-8352-4827-b172-6ff2db1a6155)
 
 ## Treatment & Care by hospital staff
 ### Treatment and care by nurses 
+Patient responses on cleanliness increased steadily from 2015 till 2021 but began to reduce from 2021 till now.
 
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/f5f2e73e-bf17-45f3-bf0a-fdb6924d7157)
+
+Hospitals in xx have the most positive responses on how they were treated by nurses during their stay.
+
+
+
+Hospitals in xx have the most negative responses on how they were treated by nurses during their stay
