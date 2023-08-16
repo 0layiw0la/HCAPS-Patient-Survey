@@ -45,6 +45,10 @@ From the chart below we can see that the percentage of positive responses actual
 
 Hospitals in Nebraska have the highest percentage of positive responses over the years on how clean they are with an average of 81.4% of responses being positive. 
 
-![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/128d2302-4bcb-4790-9af3-8b607fe71be9)
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/128d2302-4bcb-4790-9af3-8b607fe71be9)  
 
-## 
+Hospitals in 
+
+## Treatment & Care by hospital staff
+### Treatment and care by nurses 
+
