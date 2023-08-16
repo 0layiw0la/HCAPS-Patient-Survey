@@ -57,8 +57,11 @@ Patient responses on cleanliness increased steadily from 2015 till 2021 but bega
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/f5f2e73e-bf17-45f3-bf0a-fdb6924d7157)
 
-Hospitals in xx have the most positive responses on how they were treated by nurses during their stay.
+Hospitals in Los Angeles have the most positive responses by patients on how they were treated by nurses during their stay.
 
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/6d1dae08-8a98-44b7-a644-2182660f2857)
 
+Hospitals in the District of Columbia have the most negative responses by patients on how they were treated by nurses during their stay
 
-Hospitals in xx have the most negative responses on how they were treated by nurses during their stay
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/0c16198f-fae9-426a-9c67-d3849064547d)
+
