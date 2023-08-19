@@ -81,3 +81,19 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
   negative.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/d31680c2-d408-4d7b-ad4a-6ebcfc83c8a2)
+
+## Responsiveness
+.
+
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/cf1fe41b-5453-4188-a8ae-6702cb3a62af)
+
+.
+
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/70c7b004-c574-4955-a7a1-e99de2b153c3)
+
+.
+
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fccb3249-6adc-493c-9153-2fbd9f7c4380)
+
+
+
