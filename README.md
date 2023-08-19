@@ -77,21 +77,23 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/3c610c02-34bc-4c88-8cc6-bf9b0e0404bd)
 
-* Hospitals in Nevada have the most negative responses by patients on how they were treated by doctors during their stay. An average of 7.89% of total responses between 2015 and 2023 were 
-  negative.
+* Hospitals in Nevada have the most negative responses by patients on how they were treated by doctors during their stay. An average of 7.89% of total responses between 2015 and 2023 
+  were negative.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/d31680c2-d408-4d7b-ad4a-6ebcfc83c8a2)
 
 ## Responsiveness
-.
+* Positive responses by patients on how often they got help when they needed it rose and fell occasionally between 2015 and 2023 with it reaching its highest of 62.02% in 2017 and 2022 and lowest of 61.08% in 2023.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/cf1fe41b-5453-4188-a8ae-6702cb3a62af)
 
-.
-
+* Hospitals in Los Angeles have the most positive responses by patients on how quickly they got help during their stay in the hospital. An average of 73.67% of total responses between
+  2015 and 2023 were positive.
+  
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/70c7b004-c574-4955-a7a1-e99de2b153c3)
 
-.
+* Hospitals in the District of Columbia have the most negative responses by patients on how quickly they got help during their stay in the hospital. An average of 16.33% of total
+  responses between 2015 and 2023 were negative.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fccb3249-6adc-493c-9153-2fbd9f7c4380)
 
