@@ -97,5 +97,17 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fccb3249-6adc-493c-9153-2fbd9f7c4380)
 
+## Communication on medicines
+* Positive responses by patients on how often they got information on what their medicine was and its effects rose from 64.98% in 2015 to 66.12% in 2020 then decreased from thwn on till 61.48% in 2023.
 
+  ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/d03e3523-250b-412b-99bb-242b82fa24ca)
 
+  * Hospitals in Los Angeles and South Dakota booth have the most positive responses by patients on how often they got information on what their medicine was and its effects. An average of 69.67% of total responses between 2015 and 2023 were positive.
+
+    ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/9ee672b1-181c-4ff3-a706-d4b8ff0d0d12)
+
+* Hospitals in the District of Columbia have the most negative responses by patients on how often they got information on what their medicine was and its effects. An average of 24.89% of total responses between 2015 and 2023 were negative.
+
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fc119b55-c9e5-4678-b0ba-48d828f26742)
+
+## Discharge planning
