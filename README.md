@@ -10,6 +10,8 @@ WORK IN PROGRESS
 * [Treatment and care by hospital staff](#care)
 * [Responsiveness of staff](#responsive)
 * [Communication on medicine](#com)
+* [Care after discharge](#discharge)
+* [Rating and reccommendations](#rate)
 
 # <a name="intro"></a>Introduction
  This is an analysis of survey responses conducted across various states and hospitals. The primary goal of this analysis is to provide actionable insights that can help hospitals improve patient care.
@@ -111,7 +113,7 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fccb3249-6adc-493c-9153-2fbd9f7c4380)
 
-## Communication on medicines
+## Communication on medicines <a name="com">
 * Positive responses by patients on how often they got information on what their medicine was and its effects rose from 64.98% in 2015 to 66.12% in 2020 then decreased from then on till 61.48% in 2023.
 
   ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/d03e3523-250b-412b-99bb-242b82fa24ca)
@@ -124,7 +126,7 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fc119b55-c9e5-4678-b0ba-48d828f26742)
 
-## Care after discharge
+## Care after discharge <a name="discharge">
 * Positive responses by patients on wether they got any help or information on care after being discharged from the hospital rose from 69.12% in 2015 to 70.46% in 2021 then decreased from then on till 68.35% in 2023.
 
   ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/f389e183-68d1-40ee-bfeb-40c1affb583a)
@@ -137,7 +139,7 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
    
       ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/0e5f9756-147d-462b-aa5f-e9aaa962354e)
       
-## Rating & Reccomendation
+## Rating & Reccomendation <a name="rate">
 * Hospitals in Nebraska are the highest rated with 78.78% of patients rating them between 9 and 10 (the rating was done on a scale of 0 to 10). With hospitals in the District of Columbia being the lest rated with 14.33% of patients rating them between 0 to 6.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/97c3fea2-63e3-4d43-8603-9faedfadd12f)
