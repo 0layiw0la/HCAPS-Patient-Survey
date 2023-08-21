@@ -13,6 +13,7 @@ WORK IN PROGRESS
 * [Care after discharge](#discharge)
 * [Rating and reccommendations](#rate)
 
+
 # <a name="intro"></a>Introduction
  This is an analysis of survey responses conducted across various states and hospitals. The primary goal of this analysis is to provide actionable insights that can help hospitals improve patient care.
 
