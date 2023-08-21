@@ -7,7 +7,7 @@ WORK IN PROGRESS
 * [Introduction](#intro)
 * [Summary](#sum)
 * [Cleanliness of Hospitals](#clean)
-* [Response rate over the years](#resp)
+* [Response rate over the years](#care)
 * [Response rate over the years](#resp)
 * [Response rate over the years](#resp)
 
@@ -65,7 +65,7 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/02a2ae74-8352-4827-b172-6ff2db1a6155)
 
-## Treatment & Care by hospital staff
+## Treatment & Care by hospital staff <a name="care">
 ### Treatment and care by nurses 
 * Patient responses on how they were cared for by nurses increased from 2015 till 2021 (81.10% of responses in 2021 were positive) then decreases to 79% in 2023.
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/f5f2e73e-bf17-45f3-bf0a-fdb6924d7157)
