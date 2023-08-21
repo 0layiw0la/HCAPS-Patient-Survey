@@ -98,11 +98,11 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fccb3249-6adc-493c-9153-2fbd9f7c4380)
 
 ## Communication on medicines
-* Positive responses by patients on how often they got information on what their medicine was and its effects rose from 64.98% in 2015 to 66.12% in 2020 then decreased from thwn on till 61.48% in 2023.
+* Positive responses by patients on how often they got information on what their medicine was and its effects rose from 64.98% in 2015 to 66.12% in 2020 then decreased from then on till 61.48% in 2023.
 
   ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/d03e3523-250b-412b-99bb-242b82fa24ca)
 
-  * Hospitals in Los Angeles and South Dakota booth have the most positive responses by patients on how often they got information on what their medicine was and its effects. An average of 69.67% of total responses between 2015 and 2023 were positive.
+  * Hospitals in Los Angeles and South Dakota both have the most positive responses by patients on how often they got information on what their medicine was and its effects. An average of 69.67% of total responses between 2015 and 2023 were positive.
 
     ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/9ee672b1-181c-4ff3-a706-d4b8ff0d0d12)
 
@@ -110,4 +110,25 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/fc119b55-c9e5-4678-b0ba-48d828f26742)
 
-## Discharge planning
+## Care after discharge
+* Positive responses by patients on wether they got any help or information on care after being discharged from the hospital rose from 69.12% in 2015 to 70.46% in 2021 then decreased from then on till 68.35% in 2023.
+
+  ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/f389e183-68d1-40ee-bfeb-40c1affb583a)
+
+  * Hospitals in Wisconsin have the most positive responses by patients on wether they got any help or information on care after being discharged from the hospital. An average of 73.28% of total responses between 2015 and 2023 were positive.
+
+    ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/eea99111-550c-4297-86ed-6f8acfdc306b)
+
+    * Hospitals in the District of Columbia have the most negative responses by patients on wether they got any help or information on care after being discharged from the hospital. An average of 13.28% of total responses between 2015 and 2023 were negative.
+   
+      ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/0e5f9756-147d-462b-aa5f-e9aaa962354e)
+      
+## Rating & Reccomendation
+* Hospitals in Nebraska are the highest rated with 78.78% of patients rating them between 9 and 10 (the rating was done on a scale of 0 to 10). With hospitals in the District of Columbia being the lest rated with 14.33% of patients rating them between 0 to 6.
+
+![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/97c3fea2-63e3-4d43-8603-9faedfadd12f)
+
+
+* Hospitals in South Dakota are the most reccomended with 78.33% of patients saying they would reccomend the hospitals to others. While hospitals in the District of columbia are the least likely to be recommended with 10.67% of patiennts saying they probably not reccomend.
+
+  ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/37752d7f-b991-4e0a-a52d-0f7d4be6ea76)
