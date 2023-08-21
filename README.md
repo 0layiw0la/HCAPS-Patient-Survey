@@ -7,8 +7,8 @@ WORK IN PROGRESS
 * [Introduction](#intro)
 * [Summary](#sum)
 * [Cleanliness of Hospitals](#clean)
-* [Response rate over the years](#care)
-* [Response rate over the years](#resp)
+* [Treatment and care by hospital staff](#care)
+* [Responsiveness of staff](#responsive)
 * [Response rate over the years](#resp)
 
 # <a name="intro"></a>Introduction
@@ -96,7 +96,7 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/d31680c2-d408-4d7b-ad4a-6ebcfc83c8a2)
 
-## Responsiveness
+## Responsiveness of staff <a name="responsive">
 * Positive responses by patients on how often they got help when they needed it rose and fell occasionally between 2015 and 2023 with it reaching its highest of 62.02% in 2017 and 2022 and lowest of 61.08% in 2023.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/cf1fe41b-5453-4188-a8ae-6702cb3a62af)
