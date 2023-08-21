@@ -9,7 +9,7 @@ WORK IN PROGRESS
 * [Cleanliness of Hospitals](#clean)
 * [Treatment and care by hospital staff](#care)
 * [Responsiveness of staff](#responsive)
-* [Response rate over the years](#resp)
+* [Communication on medicine](#com)
 
 # <a name="intro"></a>Introduction
  This is an analysis of survey responses conducted across various states and hospitals. The primary goal of this analysis is to provide actionable insights that can help hospitals improve patient care.
