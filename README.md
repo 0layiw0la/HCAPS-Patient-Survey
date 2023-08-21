@@ -6,8 +6,10 @@ WORK IN PROGRESS
 ## Table of content
 * [Introduction](#intro)
 * [Summary](#sum)
+* [Cleanliness of Hospitals](#clean)
 * [Response rate over the years](#resp)
-* 
+* [Response rate over the years](#resp)
+* [Response rate over the years](#resp)
 
 # <a name="intro"></a>Introduction
  This is an analysis of survey responses conducted across various states and hospitals. The primary goal of this analysis is to provide actionable insights that can help hospitals improve patient care.
@@ -50,7 +52,7 @@ The chart below shows the average response rate between 2015 till 2023 for the 5
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/5c1de193-aaa2-495c-b972-80420e14f258)
 
 # Survey Question measures
-## Cleanliness of Hospitals 
+## Cleanliness of Hospitals <a name="clean">
 * The percentage of positive responses increases from 2015 till 2020 (75.96% of total responses were positive) then decreases from then on to 71.73% in 2023.
 
 ![image](https://github.com/0layiw0la/HCAPS-Patient-Survey/assets/103042427/9fe9df99-5044-49cc-ba01-89a07b41450e)
